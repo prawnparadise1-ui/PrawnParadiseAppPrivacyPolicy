@@ -1,24 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title>Privacy Policy</title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="1894.3">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 15.0px; font: 12.0px 'Helvetica Neue'; color: #000000; -webkit-text-stroke: #000000}
-    p.p2 {margin: 0.0px 0.0px 12.0px 0.0px; line-height: 14.0px; font: 12.0px 'Helvetica Neue'; color: #000000; -webkit-text-stroke: #000000}
-    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px 'Helvetica Neue'; color: #000000; -webkit-text-stroke: #000000; min-height: 14.0px}
-    p.p5 {margin: 0.0px 0.0px 12.0px 0.0px; line-height: 14.0px; font: 12.0px 'Helvetica Neue'; color: #000000; -webkit-text-stroke: #000000; min-height: 14.0px}
-    li.li4 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px 'Helvetica Neue'; color: #000000; -webkit-text-stroke: #000000}
-    li.li6 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px 'Helvetica Neue'; color: #0000e9; -webkit-text-stroke: #0000e9}
-    span.s1 {font-kerning: none}
-    span.s2 {-webkit-text-stroke: 0px #000000}
-    span.s3 {text-decoration: underline ; font-kerning: none; color: #0000e9}
-    ul.ul1 {list-style-type: disc}
-  </style>
-</head>
 <body>
 <p class="p1"><span class="s1"><b>Privacy Policy</b></span></p>
 <p class="p2"><span class="s1">This privacy policy applies to the Prawn Paradise app (hereby referred to as "Application") for mobile devices that was created by KrishnaVPV (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".</span></p>
